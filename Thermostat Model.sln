@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thermostat Model", "Thermostat Model\Thermostat Model.csproj", "{3EBFCA28-D611-4BB3-BD37-9DF575D9AEFD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DCFEA2E5-9DED-4C3D-A3F5-354F34243834}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EBFCA28-D611-4BB3-BD37-9DF575D9AEFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EBFCA28-D611-4BB3-BD37-9DF575D9AEFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EBFCA28-D611-4BB3-BD37-9DF575D9AEFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EBFCA28-D611-4BB3-BD37-9DF575D9AEFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6852DCA6-FDAC-4A79-B169-C401B79A5A50}
+	EndGlobalSection
+EndGlobal
