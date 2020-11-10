@@ -20,7 +20,7 @@
         public Liquid(string compsition)
         {
             Compsition = compsition;
-            Temperature = 10;
+            Temperature = 0;
         }
 
         /// <summary>
